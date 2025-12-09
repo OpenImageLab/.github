@@ -34,7 +34,7 @@ An [organisational Wiki](https://github.com/OpenImageLab/.github/wiki) will help
 
 ## Contributing
 
-OpenImageLab welcomes contributions from the community. Whether you want to refine documentation, create new tutorials, test workflows, or share your knowledge, your participation is appreciated.  Click on [Contribution guidelines](https://gitnub.com/OpenImageLab/.github/CONTRIBUTING.md) to discover the guidelines.
+OpenImageLab welcomes contributions from the community. Whether you want to refine documentation, create new tutorials, test workflows, or share your knowledge, your participation is appreciated.  Click on [Contributing guidelines](https://github.com/OpenImageLab/.github/blob/main/CONTRIBUTING.md) to discover the guidelines.
 
 ## License
 
