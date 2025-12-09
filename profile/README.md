@@ -39,7 +39,7 @@ OpenImageLab welcomes contributions from the community. Whether you want to refi
 ## License
 
 All content within OpenImageLab repositories is covered by the licenses specified in each project.  
-Documentation typically uses a [Creative Commons license](https://github.com/OpenImageLab/.github/LICENSE.md), while software components and presets may use an open-source license.
+Documentation typically uses a [Creative Commons license](https://gitnub.com/OpenImageLab/.github/CONTRIBUTING.md) while software components and presets may use an open-source license.
 
 ---
 
