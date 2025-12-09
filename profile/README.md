@@ -30,16 +30,16 @@ Our mission is to make high-quality image processing accessible to everyone. We 
 Documentation and tutorials will be available across the organization’s repositories and wiki. Additional learning material — including presets, sample workflows, and reference images — will be added over time as the project expands.
 
 ### Wiki
-An organisational Wiki will help users and contributors to understand and follow the principles and processes of OpenImageLab organisation.
+An [organisational Wiki](https://github.com/OpenImageLab/.github/wiki) will help users and contributors to understand and follow the principles and processes of OpenImageLab organisation.
 
 ## Contributing
 
-OpenImageLab welcomes contributions from the community. Whether you want to refine documentation, create new tutorials, test workflows, or share your knowledge, your participation is appreciated. Contribution guidelines will be published as the project evolves.
+OpenImageLab welcomes contributions from the community. Whether you want to refine documentation, create new tutorials, test workflows, or share your knowledge, your participation is appreciated.  Click on [Contribution guidelines](https://gitnub.com/OpenImageLab/.github/CONTRIBUTING.md) to discover the guidelines.
 
 ## License
 
 All content within OpenImageLab repositories is covered by the licenses specified in each project.  
-Documentation typically uses a Creative Commons license, while software components and presets may use an open-source license.
+Documentation typically uses a [Creative Commons license](https://github.com/OpenImageLab/.github/LICENSE.md), while software components and presets may use an open-source license.
 
 ---
 
