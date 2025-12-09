@@ -29,6 +29,9 @@ Our mission is to make high-quality image processing accessible to everyone. We 
 
 Documentation and tutorials will be available across the organization’s repositories and wiki. Additional learning material — including presets, sample workflows, and reference images — will be added over time as the project expands.
 
+### Wiki
+An organisational Wiki will help users and contributors to understand and follow the principles and processes of OpenImageLab organisation.
+
 ## Contributing
 
 OpenImageLab welcomes contributions from the community. Whether you want to refine documentation, create new tutorials, test workflows, or share your knowledge, your participation is appreciated. Contribution guidelines will be published as the project evolves.
