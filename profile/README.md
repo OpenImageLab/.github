@@ -31,7 +31,7 @@ Documentation and tutorials will be available across the organization’s reposi
 
 | Product Name | Description | Statut |
 | :--- | :--- | :--- |
-| Processing raw Images with Darktable 5.x | Tutorial and Style file to process and improve raw images using open source Darktable 5.x | Available |
+| [Processing raw Images with Darktable 5.x](https://github.com/OpenImageLab/darktable) | Tutorial and Style file to process and improve raw images using open source Darktable 5.x | Available |
 | Scanning diapositives with scanner Plustek 8300i | Tutorial to scan positive slides (24 x 36 mm) and produce 48-bits HDR 300 ppi raw images using scanner Plustek 8300i and software Silverfast 9. | In preparation |
 
 ### Wiki
