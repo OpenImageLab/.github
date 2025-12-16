@@ -15,7 +15,7 @@ We offer guidance on choosing and using scanners, digital cameras, monitors, pri
 ### Open Resources & Community Collaboration
 OpenImageLab maintains repositories, presets, style files, example images, and educational material. We encourage contributions from anyone who wishes to improve tutorials, share expertise, or help develop new resources.
 
-## Mission
+## Our Mission
 
 Our mission is to make high-quality image processing accessible to everyone. We strive to:
 
@@ -25,9 +25,14 @@ Our mission is to make high-quality image processing accessible to everyone. We 
 - Support both digital and analog photographers, including hybrid film-to-digital workflows.  
 - Build a collaborative space where knowledge grows collectively.
 
-## Resources
+## Our Products
 
 Documentation and tutorials will be available across the organization’s repositories and wiki. Additional learning material — including presets, sample workflows, and reference images — will be added over time as the project expands.
+
+| Product Name | Description | Statut |
+| :--- | :--- | :--- | :--- |
+| Processing raw Images with Darktable 5.x | Tutorial and Style file to process and improve raw images using open source Darktable 5.x | Available |
+| Scanning diapositives with scanner Plustek 8300i | Tutorial to scan positive slides (24 x 36 mm) and produce 48-bits HDR 300 ppi raw images using scanner Plustek 8300i and software Silverfast 9. | In preparation |
 
 ### Wiki
 An [organisational Wiki](https://github.com/OpenImageLab/.github/wiki) will help users and contributors to understand and follow the principles and processes of OpenImageLab organisation.
